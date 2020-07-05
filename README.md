@@ -1,6 +1,8 @@
 # automata_security
 Using cellular atomation for security!
 
+Just a proof of concept, could be re-wired for real implementation, but very slow when faster one way functions exist
+
 ## The cellular automata 
 you can play with a javascript implementation on my website at http://www.wesleyscoolsite.com/automata
 
